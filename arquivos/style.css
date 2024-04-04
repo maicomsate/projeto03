@@ -1,0 +1,109 @@
+body{
+    color: gray;
+    background-color: black;
+}
+.mulher{
+    display: block;
+    position: absolute;
+	left: 50%;
+	top: 10%
+}
+h1{
+color: #FAFAF9;
+display: inline-flex;
+font-size: small;
+padding: auto;
+margin-left: 0%;
+margin-bottom: 0;
+
+}
+nav > a{
+    margin-right: 2px;
+    margin-left: 2px;
+    position: relative;
+    align-items: flex-start;
+    font-size: small;
+    color: #FAFAF9;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}      
+
+nav :hover{
+
+    color: #E6533C;
+}
+
+
+.menu{
+
+    text-align: end;
+    text-decoration: none;
+
+}
+button{
+    display: inline;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left: 100px;
+    background-color: #E6533C;
+    color: #FAFAF9;
+    width: 250px;
+    height: 60px;
+    text-decoration: none;
+}
+button:hover{
+    background-color:#e6533cc2 ;
+
+}
+
+
+
+.corrida{
+    display: block;
+    position: absolute;
+	left: 80%;
+	top: 30%;
+    width: 140px;
+    
+}
+
+.roxo{
+    display: block;
+    position: absolute;
+	left: 80%;
+	top: 60%;
+    width: 140px;
+    
+}
+.preto{
+    display: block;
+    position: absolute;
+	left: 45%;
+	top: 30%;
+    width: 170px;
+}
+h2{
+    color: #FAFAF9;
+    font-size: 110px;
+    margin-bottom: 0px;
+}
+p{
+    display: block;
+    margin-left: 40px;
+  
+}
+
+.logos{
+    display: block;
+    margin-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+h3{
+    font-size: 30px;
+    color: white;
+}
+
+
+
