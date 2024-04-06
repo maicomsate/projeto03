@@ -1,6 +1,7 @@
 body{
-    color: gray;
-    background-color: black;
+    color: rgb(151, 151, 151);
+    background-image: linear-gradient(to top, rgb(146, 146, 146), black);
+
 }
 .mulher{
     display: block;
@@ -105,5 +106,150 @@ h3{
     color: white;
 }
 
+.pagina2 img{
+    width: 400px;
+    margin-left: 350px;
+    padding-top:490px ;
+    display: inline-flex;
+}
 
+.pagina2 h3{
+    padding-left: 30px;
+    font-size: 50px;
+    margin-bottom: -500px;
+    height: 10px;
+    
+  
+}
 
+.pagina2 > p{
+    
+    width: 400px;
+    height: 200px;
+    margin-bottom: 20px;
+    display: inline-block;
+    margin-top: 100px;
+    
+}
+.pagina2 button{
+
+    border-radius: 20px;
+    width: 200px;
+    height: 15;
+    font-size: 20px;
+    margin-bottom: 40px;
+    color: #FAFAF9;
+    text-decoration: none;
+}
+
+.pagina3 img{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 386px;
+}
+  
+.pagina3 h2{
+    display: inline-flex;
+    height: 2000;
+    font-size: 30px;
+    margin-left: 50px;
+   
+    width: 600px;
+    
+    }
+
+.pagina3 p{
+    display: inline-block;
+    
+    margin-left: 50px;
+    
+    width: 500px;
+}
+.pagina3 button{
+
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: #FAFAF9;
+    text-decoration: none;
+}
+
+.free{
+    padding-top: 150px;
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: -400px;
+    color: #494949;
+    
+}
+
+.free h3{
+    display: inline-block;
+   margin-left: 15px;
+   
+    
+
+}
+
+.free p{
+
+    margin-top: 0px ;
+    margin-left: 10px;
+    
+}
+
+.free button{
+    width: 150px;
+    height: 25px;
+    font-size: 15px;
+    margin-left: 40px;
+    text-decoration: none;
+    color: #FAFAF9;
+    
+   
+}
+
+.plus{
+    color: #494949;
+    display: inline-flex;
+    flex-direction: column;
+    margin-left: 350px;
+    height: 10px;
+}
+
+.plus h3{
+    margin-left: 80px;
+    
+
+}
+
+.plus p{
+    margin-top: 1px;
+    margin-left: -1px;
+
+}
+
+.plus button,a {
+    
+
+    width: 160px;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #FAFAF9;
+    margin: 0px;
+  
+}
+
+.plus button{
+    margin-left: 50px;
+}
+
+footer{
+    color: rgba(0, 0, 0, 0.425);
+    text-align: center;
+}
